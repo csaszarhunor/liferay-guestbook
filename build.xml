@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+
+<project name="guestbook-portlet" basedir="." default="deploy">
+	<import file="/home/hunorcs/Liferay/sdks/mavir-ugyvitel-6.2-ee/portlets/build-common-portlet.xml" />
+</project>
